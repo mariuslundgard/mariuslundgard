@@ -1,4 +1,4 @@
 - 🔭 I’m currently working on [sanity.io](https://www.sanity.io/)
 - 📫 How to reach me: [@mariuslundgard](https://twitter.com/mariuslundgard)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I know how to fix forklift trucks
