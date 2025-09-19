@@ -1,7 +1,7 @@
-I’m a designer who approaches code and technology as a design material. That means I prefer prototyping using code – with real content and real functionality – over traditional static sketching or visual prototyping tools.
+Principal Designer, Apps @ Sanity.io — shaping the future of structured content through conceptual frameworks, design systems, and prototypes that make ideas feel obvious and inevitable.
 
-I’m especially interested in design systems, publishing, typography, data visualization, branding, and product innovation & strategy.
+I call my practice material research: code as clay, shaping interactions until they feel natural. Prototypes aren’t just demos — they’re arguments, experiments, and specs that move teams forward.
 
-- 🔭 I’m currently working on [sanity.io](https://www.sanity.io/)
-- 📫 How to reach me: [@mariuslundgard](https://twitter.com/mariuslundgard)
-- 😄 Pronouns: he/him
+Trained as graphic designer at Rietveld. Started coding as a teenager (Flash, ActionScript) — design and code have always been one language for me.
+
+When I’m not working: dad of fearless kid, devouring sci-fi, and occasionally reminiscing about my graffiti days and the smell of spray paint.
